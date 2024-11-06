@@ -1,0 +1,4 @@
+**/application.properties
+**/.idea/*
+**/.mvn/*
+**/target/*
